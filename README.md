@@ -1,6 +1,7 @@
-# Hey there ! 👋
+# Hey there 👋 Welcome to my GitHub profile ! 
 
-I'm Ankita Sakharkar, an avid learner and tech enthusiast based in Nagpur. Welcome to my GitHub profile! 🚀
+- 🤖 I'm Ankita Sakharkar,  I'm on a thrilling expedition to decode the secrets of Machine Learning and Data Science and navigate through the vast landscapes of algorithms and datasets.
+- 💻 Aspiring data sorcerer, code wrangler, and problem-solving aficionado, I'm fueled by an insatiable curiosity to understand and create.
 
 ## About Me
 
@@ -20,6 +21,10 @@ Here are some of the technologies and tools I have a fair knowledge of :
 - 🌐 HTML
 - 🎨 CSS
 
+## Projects (🚧 Work in Progress)
+
+Building a portfolio of projects that not only showcase my technical skills but also reflect my evolving skills in ML and Data Science.Stay tuned for some exciting developments!
+
 ## Let's Connect
 
 - 📫 You can reach me via [Email](mailto:ankitasakharkar@gmail.com).
@@ -27,4 +32,4 @@ Here are some of the technologies and tools I have a fair knowledge of :
 - 🐦 Follow me on [Twitter](https://twitter.com/memosfromanki).
 - 🎧 Discover my playlist on [Spotify](https://open.spotify.com/user/j75a1c56tj3qxu36zhs5l6xv6?si=26095e65976c4f67)
 
-Thanks for stopping by! Feel free to reach out if you have any questions or just want to chat. Happy coding! 🚀✨
+Thanks for stopping by! Looking to connect with fellow enthusiasts, mentors, and anyone passionate about the intersection of technology and intelligence. Let's collaborate, learn, and build the future together. Happy coding! 🚀✨

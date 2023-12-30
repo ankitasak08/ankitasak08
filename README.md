@@ -16,6 +16,7 @@ Here are some of the technologies and tools I have a fair knowledge of :
 
 - 🐍 Python
 - 💽 SQL
+- 🔍 Flask & other API`s
 - 📓 Google Colab
 - 📒 Jupyter Notebooks
 - 🌐 HTML
